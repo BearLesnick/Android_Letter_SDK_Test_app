@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LetterAppWithFragments</string>
+    <string name="text_view">HelloWorld</string>
+    <string name="letter_form_top_label">Receiver</string>
+    <string name="label_from_send_button_text">Send</string>
+    <string name="header_hint">Header</string>
+    <string name="content_hint">Content</string>
+    <string name="email_hint">Email</string>
+    <string name="contacts">Contacts</string>
+</resources>
